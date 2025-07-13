@@ -111,24 +111,6 @@ Enhances test tracking with result logs, metrics, and test summary generation.
 
 ---
 
-## 📸 Screenshot Handling
-
-Screenshots are automatically captured:
-
-- On test pass and failure
-- Organized by `/pass` and `/fail` directories
-- Nested in timestamped folders per test run
-- Named using the format: `TestCaseID_Step_Action.png`
-
-Screenshot points include:
-
-- Before and after form fills
-- After form submissions
-- Validation error states
-- Final UI state post-action
-
----
-
 ## 📊 Data-Driven Testing
 
 Test inputs (e.g. contact form fields, booking data) are stored in `tests/data/`, allowing scalable and reusable test scenarios.
