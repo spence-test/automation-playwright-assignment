@@ -36,7 +36,7 @@ This project is a automation test framework built using **Playwright** and **Typ
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/playwright-automationintesting.git
+   git clone https://github.com/YOUR_USERNAME/automation-playwright-assignment.git
    cd playwright-automationintesting
 ````
 
