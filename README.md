@@ -37,7 +37,7 @@ This project is a automation test framework built using **Playwright** and **Typ
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/automation-playwright-assignment.git
-   cd playwright-automationintesting
+   cd automation-playwright-assignment
 ````
 
 2. Install dependencies:
